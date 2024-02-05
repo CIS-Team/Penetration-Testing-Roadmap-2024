@@ -17,6 +17,9 @@ Explore key concepts in cyber security, gain hands-on experience with Linux secu
 ---
 ## Level 2 (Understanding Web applications) :
 
+In the modern digital landscape, web applications play a important role in delivering dynamic and interactive content over the internet. From social media platforms to online shopping, web applications are the backbone of our daily online experiences. This section aims to provide you with a foundational understanding of web applications, their components, and the underlying technologies that power them.
+
+
 ### HTTP
 - [**Understanding HTTP (English)**](https://www.youtube.com/watch?v=wW2A5SZ3GkI)
 - [**Understanding HTTP (Arabic)**](https://www.youtube.com/watch?v=65R3atbFGWg&t=79s)
