@@ -46,11 +46,17 @@ Explore the world of penetration testing with practical resources that guide you
 
 Learn how to use Burp Suite, a powerful web application testing tool, with the following resources:
 
-- [Burp Suite ](https://www.notion.so/Burp-Suite-82843a6891bb4ffeb7dc20db651a0ed4?pvs=21](https://melguerdawi.notion.site/Burp-Suite-82843a6891bb4ffeb7dc20db651a0ed4?pvs=25))
+- [Burp Suite ](https://youtube.com/playlist?list=PLDRMxi70CdSBzjCKsC0clrioNmlAPvASK&si=zQFuEn-QgskJzjCK)
 
 ### Web Applications Penetration Testing
 
 Dive into comprehensive web application penetration testing with the following resources:
 
-- [Web Applications Penetration Testing Guide](https://www.notion.so/Web-applications-Penetration-Testing-e98e27b2742542fe86de79324c85b530?pvs=21](https://melguerdawi.notion.site/Web-applications-Penetration-Testing-e98e27b2742542fe86de79324c85b530?pvs=25)https://melguerdawi.notion.site/Web-applications-Penetration-Testing-e98e27b2742542fe86de79324c85b530?pvs=25)
-
+- [Ebrahim Hegazy Course](https://youtube.com/playlist?list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj&si=NiFw4_ygdS2NwWBL)
+- [Mousa Course](https://youtube.com/playlist?list=PLLzW31DEJStdtf7F2UZZJUfZzbOlpLxNM&si=i9V95I_O5kZpafY_)
+- [What is CTF](https://youtu.be/8ev9ZX9J45A?si=b09htdfSOor_pTyt)
+- Labs
+  - [Portswigger labs](https://portswigger.net/users)
+  - [Root-me labs](https://www.root-me.org/?lang=en)
+  - [Tryhackme](https://tryhackme.com/)
+  - [Install bwapp](https://youtu.be/08kge5Lg2bk?si=QbCQaHGLM-e4YYYM)
